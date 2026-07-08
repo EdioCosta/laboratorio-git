@@ -1,2 +1,1 @@
-# laboratorio-git
-Laboratorio de comandos git - Movtech
+Projeto laboratorio git, cadastro de usuarios, nova funcionalidade adicionada
